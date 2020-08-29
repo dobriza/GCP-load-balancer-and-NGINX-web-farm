@@ -1,0 +1,4 @@
+sites_config_template_directory: ../templates
+site1_Parent_Directory: ../files/custom_site
+nginxPortNumber: 80
+email: dobriza@yandex.ru

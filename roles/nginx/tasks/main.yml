@@ -1,0 +1,4 @@
+---
+ - import_tasks: install_python.yml
+ - import_tasks: install_nginx.yml
+ - import_tasks: configure_nginx.yml
